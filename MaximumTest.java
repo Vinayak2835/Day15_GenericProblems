@@ -7,8 +7,7 @@ import org.junit.Before;
 import org.junit.jupiter.api.Test;
 
 class MaximumTest {
-
-	Maximum maximum;
+       Maximum maximum;
 
     @Before
     public void setup() throws  Exception {
